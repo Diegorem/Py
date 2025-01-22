@@ -23,6 +23,6 @@ print(my_set)
 my_set.discard('arg')
 print('borrado ', my_set)
 
-my_set.clear #Limpia todo el set
+my_set.clear() #Limpia el set
 print(my_set)
 print(len(my_set))
